@@ -31,7 +31,7 @@ header{
     flex-direction: row;
     border-radius: 20px;
     overflow: hidden;
-    height: 50%;
+    height: 55%;
 }
 .caja-cara{
     display: flex;
