@@ -130,7 +130,7 @@ footer{
 @media (max-width: 1000px) {
     .caja-central{
         width: 90%;
-        height: 90%;
+        height: 80%;
         flex-direction: column;
     }
     .caja-cara{
