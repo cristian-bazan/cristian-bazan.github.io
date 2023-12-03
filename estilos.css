@@ -11,8 +11,8 @@ header{
     padding-left: 25px;
 }
 .cara{
-    border-radius: 500px;
-    height: 300px;
+    border-radius: 10px;
+    height: 250px;
 }
 .uno{
     width: 100%;
@@ -58,8 +58,10 @@ header{
     justify-content: center;
     align-items: center;
     color: #303030;
+    padding-top: 7%;
     padding-left: 20%;
     padding-right: 20%;
+    padding-bottom: 7%;
 }
 .aptitudes{
     width: 50%;
