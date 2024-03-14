@@ -74,6 +74,8 @@ h3{
 }
 .aptitudes{
     width: 50%;
+    padding-top: 10%;
+    padding-bottom: 10%;
 }
 .tech-list{
     display: flex;
