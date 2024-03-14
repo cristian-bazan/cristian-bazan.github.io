@@ -70,7 +70,7 @@ h3{
     padding-top: 10%;
     padding-left: 20%;
     padding-right: 20%;
-    padding-bottom: 20%;
+    padding-bottom: 10%;
 }
 .aptitudes{
     width: 50%;
@@ -161,6 +161,7 @@ footer{
         height: auto;
         padding: 0 10px 10px 10px;
         padding-top: 10%;
+        padding-bottom: 20%;
     }
     .tres{
         height: auto;
