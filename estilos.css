@@ -10,6 +10,9 @@ header{
     align-items: center;
     padding-left: 25px;
 }
+h2{
+    font-family: "Comfortaa", sans-serif;
+}
 .cara{
     border-radius: 10px;
     height: 240px;
