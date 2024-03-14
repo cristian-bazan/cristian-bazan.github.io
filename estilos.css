@@ -10,10 +10,13 @@ header{
     align-items: center;
     padding-left: 25px;
 }
+h1{
+    font-family: "Comfortaa", sans-serif;
+}
 h2{
     font-family: "Comfortaa", sans-serif;
 }
-h1{
+h3{
     font-family: "Comfortaa", sans-serif;
 }
 .cara{
